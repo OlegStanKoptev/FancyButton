@@ -13,6 +13,7 @@
 		DCD4FDFD25C4B30E00EF299D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCD4FDFB25C4B30E00EF299D /* Main.storyboard */; };
 		DCD4FDFF25C4B31000EF299D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCD4FDFE25C4B31000EF299D /* Assets.xcassets */; };
 		DCD4FE0225C4B31000EF299D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCD4FE0025C4B31000EF299D /* LaunchScreen.storyboard */; };
+		DCD4FE0B25C4B33300EF299D /* FancyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD4FE0A25C4B33300EF299D /* FancyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DCD4FDFE25C4B31000EF299D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCD4FE0125C4B31000EF299D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCD4FE0325C4B31000EF299D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCD4FE0A25C4B33300EF299D /* FancyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DCD4FDF525C4B30E00EF299D /* AppDelegate.swift */,
 				DCD4FDF725C4B30E00EF299D /* SceneDelegate.swift */,
 				DCD4FDF925C4B30E00EF299D /* ViewController.swift */,
+				DCD4FE0A25C4B33300EF299D /* FancyButton.swift */,
 				DCD4FDFB25C4B30E00EF299D /* Main.storyboard */,
 				DCD4FDFE25C4B31000EF299D /* Assets.xcassets */,
 				DCD4FE0025C4B31000EF299D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCD4FDFA25C4B30E00EF299D /* ViewController.swift in Sources */,
+				DCD4FE0B25C4B33300EF299D /* FancyButton.swift in Sources */,
 				DCD4FDF625C4B30E00EF299D /* AppDelegate.swift in Sources */,
 				DCD4FDF825C4B30E00EF299D /* SceneDelegate.swift in Sources */,
 			);
